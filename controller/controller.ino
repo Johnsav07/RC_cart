@@ -1,4 +1,4 @@
-#define LEFT_PIN 1
+#define LEFT_PIN 4
 
 int lastLeft = LOW;
 
